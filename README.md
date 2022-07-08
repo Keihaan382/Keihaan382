@@ -5,3 +5,4 @@
 - discord: keihaan382#0977
 - email: keihaan382@gmail.com
 - instagram: www.intagram.com/keihaan382 
+- youtube: https://www.youtube.com/channel/UCSD0fSfvMUdFf4kMiMjBeGQ/videos
