@@ -1,8 +1,4 @@
 - 👋 Hi, I'm @Keihaan382
-- 👀 I am a Creator of MLO Maps, Interiors and Exteriors, among other details, For Fivem...
+- Im ©️KEIHAAN382.• RAGE⭐ Maps Developer.
 - 🌱 I'm currently learning a bit of lua programming to improve and give dynamics to my creations...
-- 📫 You can contact me without any problem.
-- discord: keihaan382#0382
-- email: keihaan382@gmail.com
-- instagram: www.intagram.com/keihaan382 
-- youtube: https://www.youtube.com/channel/UCSD0fSfvMUdFf4kMiMjBeGQ/videos
+- discord: [keihaan382#0382](https://discord.com/invite/CaNzpjZ7nS)
